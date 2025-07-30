@@ -3,6 +3,11 @@ Webroot Already Paid For? How to Download & Install It Purchased from Best Buy o
 
 If you’ve already paid for Webroot antivirus through Best Buy or Geek Squad, you’re likely wondering how to get started with your software. Whether it came bundled with your computer or was purchased separately, many users ask, “How do I begin the **Webroot download already purchased Best Buy**?” or “How do I **install my Webroot already paid for** on my computer?” This guide will walk you through everything you need to know to access, download, and install your Webroot subscription.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://webrootdesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Webroot Page</a>
+   </div>
 In this post, we’ll explain how to locate your activation key, complete your **Webroot Geek Squad download**, and troubleshoot any setup issues. If you’ve been trying to activate Webroot from Best Buy or Geek Squad but hit a wall, don’t worry — help is here.
 
 Understanding Your Webroot Purchase
